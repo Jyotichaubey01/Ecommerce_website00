@@ -16,6 +16,7 @@ import search from './search.png'
 import profile_icon from './profile_icon.png'
 import cart_icon from "./cart_icon.png";
 import menu_icon from "./menu_icon.png";
+import dropdown_icon from "./dropdown_icon.png"
 
 export const assets = {
   download1,
@@ -35,7 +36,8 @@ export const assets = {
   search,
   profile_icon,
   cart_icon,
-  menu_icon
+  menu_icon,
+  dropdown_icon
 }
 
 export const products = [
