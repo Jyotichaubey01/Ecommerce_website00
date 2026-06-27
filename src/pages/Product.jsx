@@ -2,6 +2,9 @@
 import React from 'react'
 
 const Product = () => {
+  const { productId } = useParams();
+  console.log(productId);
+  
   return (
     <div>
       
