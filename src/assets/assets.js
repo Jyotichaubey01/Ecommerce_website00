@@ -21,6 +21,7 @@ import hero_image from "./hero_image.png";
 import exchange_icon from "./exchange_icon.png"
 import quality_icon from "./quality.png"
 import support_icon from './support_icon.png'
+import  cross_icon from './cross_icon.png'
 
 export const assets = {
   download1,
@@ -45,7 +46,8 @@ export const assets = {
   hero_image,
   exchange_icon,
   quality_icon,
-  support_icon
+  support_icon,
+  cross_icon
 }
 
 export const products = [
