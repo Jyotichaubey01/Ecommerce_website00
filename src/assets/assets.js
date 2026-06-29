@@ -1,46 +1,36 @@
-import download1 from './download1.png'
-import download2 from './download2.png'
-import download3 from './download3.png'
-import download4 from './download4.png'
-import download5 from './download5.png'
-import download6 from './download6.png'
-import download7 from './download7.png'
-import download8 from './download8.png'
-import download9 from './download9.png'
-import download10 from './download10.png'
-import download11 from './download11.png'
-import download12 from './download12.png'
-import download13 from './download13.png'
-import logo from './logo.png'
-import search from './search.png'
-import profile_icon from './profile_icon.png'
-import cart_icon from "./cart_icon.png";
-import menu_icon from "./menu_icon.png";
-import dropdown_icon from "./dropdown_icon.png"
-import hero_image from "./hero_image.png";
-import exchange_icon from "./exchange_icon.png"
-import quality_icon from "./quality.png"
-import support_icon from './support_icon.png'
-import  cross_icon from './cross_icon.png'
-import  star_icon from './star_icon.png'
-import   bin_icon from './bin_icon.png'
-import  stripe_icon from './stripe_icon.png'
-import   razorpay_icon from './razorpay_icon.png'
+import download1 from './download1.png';
+import download2 from './download2.png';
+import download3 from './download3.png';
+import download4 from './download4.png';
+import download5 from './download5.png';
+import download6 from './download6.png';
+import download7 from './download7.png';
+import download8 from './download8.png';
+import download9 from './download9.png';
+import download10 from './download10.png';
+import download11 from './download11.png';
+import download12 from './download12.png';
+import download13 from './download13.png';
+
+import logo from './logo.png';
+import search from './search.png';
+import profile_icon from './profile_icon.png';
+import cart_icon from './cart_icon.png';
+import menu_icon from './menu_icon.png';
+import dropdown_icon from './dropdown_icon.png';
+import hero_image from './hero_image.png';
+import exchange_icon from './exchange_icon.png';
+import quality_icon from './quality.png';
+import support_icon from './support_icon.png';
+import cross_icon from './cross_icon.png';
+import star_icon from './star_icon.png';
+import bin_icon from './bin_icon.png';
+import stripe_icon from './stripe_icon.png';
+import razorpay_icon from './razorpay_icon.png';
+import about_img from './about_img.png';
+import contact_img from './contact_img.png';
 
 export const assets = {
-  download1,
-  download2,
-  download3,
-  download4,
-  download5,
-  download6,
-  download7,
-  download8,
-  download9,
-  download10,
-  download11,
-  download12,
-  download13,
   logo,
   search,
   profile_icon,
@@ -55,8 +45,24 @@ export const assets = {
   star_icon,
   bin_icon,
   stripe_icon,
-  razorpay_icon
-}
+  razorpay_icon,
+  about_img,
+  contact_img,
+
+  download1,
+  download2,
+  download3,
+  download4,
+  download5,
+  download6,
+  download7,
+  download8,
+  download9,
+  download10,
+  download11,
+  download12,
+  download13,
+};
 
 export const products = [
   {
@@ -214,5 +220,5 @@ export const products = [
     sizes: ["30", "32", "34", "36"],
     date: 1716634345460,
     bestseller: true,
-  }
+  },
 ];
