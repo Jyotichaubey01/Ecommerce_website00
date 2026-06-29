@@ -24,6 +24,8 @@ import support_icon from './support_icon.png'
 import  cross_icon from './cross_icon.png'
 import  star_icon from './star_icon.png'
 import   bin_icon from './bin_icon.png'
+import  stripe_icon from './stripe_icon.png'
+import   razorpay_icon from './razorpay_icon.png'
 
 export const assets = {
   download1,
@@ -51,7 +53,9 @@ export const assets = {
   support_icon,
   cross_icon,
   star_icon,
-  bin_icon
+  bin_icon,
+  stripe_icon,
+  razorpay_icon
 }
 
 export const products = [
